@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Wwise_integration_test_unity_WwiseProject" GUID="{FC124A13-EF27-4393-AE89-568042FDC489}" Generator="2023.1.1.8417"/>
+	<CacheRoot>../../../../Wwise_integration_test_unity_WwiseProject/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{1587B616-FBAE-4989-B71C-40B04CD28D9F}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../Wwise_integration_test_unity_WwiseProject/GeneratedSoundBanks/Mac"/>
+		<Platform Name="Windows" GUID="{977AA484-30DE-43FB-939F-84B42949E8CC}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../Wwise_integration_test_unity_WwiseProject/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{FFF05A69-5325-49E6-8F94-E4C397C96D9B}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{57698372-2CA0-3052-F339-829B95745C5D}</FileHash>
+</ProjectInfo>

@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{2FD83DA1-5865-409B-AB5F-1DD9F0A0DAA5}" SchemaVersion="119">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{2FD83DA1-5865-409B-AB5F-1DD9F0A0DAA5}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{2FD83DA1-5865-409B-AB5F-1DD9F0A0DAA5}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07" ID="{019B0E4E-3DE4-456A-A27A-4B828D58CAE6}">
+					<ChildrenList>
+						<Action Name="" ID="{EEEF078A-2489-44C2-9791-365F1FE16FB8}" ShortID="1018672928">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="TOYS Squeaky Chicken, Noise, One Long Squeal, High 07" ID="{281EF7F9-F279-4ECE-B06D-D1481AE4257A}" WorkUnitID="{88173191-2DB5-4950-A432-9857A209C020}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling" ID="{B834133D-23A0-4E9D-B20E-1B32B2C7C6FC}">
+					<ChildrenList>
+						<Action Name="" ID="{65242F08-12DC-4DCB-AADD-8170D0CEF4FA}" ShortID="683623650">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMBIENCE Water Soft Spring Small Bubbling" ID="{5F86F390-9A8C-440A-ACBA-9AB378FF6848}" WorkUnitID="{88173191-2DB5-4950-A432-9857A209C020}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

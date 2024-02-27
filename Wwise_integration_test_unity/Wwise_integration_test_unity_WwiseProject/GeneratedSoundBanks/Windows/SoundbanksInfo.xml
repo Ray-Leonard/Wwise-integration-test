@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{B6CBD692-12EC-CDBA-0932-48F63C40C91F}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{1ADAE78E-9F56-AED5-F169-625F25F031E2}">
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<Media>
+				<File Id="272848441" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>TOYS Squeaky Chicken, Noise, One Long Squeal, High 07.wav</ShortName>
+					<CachePath>SFX/TOYS Squeaky Chicken, Noise, One Long Squeal, High 07_892E9FEB.wem</CachePath>
+				</File>
+				<File Id="692114118" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMBIENCE Water Soft Spring Small Bubbling.wav</ShortName>
+					<CachePath>SFX/AMBIENCE Water Soft Spring Small Bubbling_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2940695617" Name="Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling" DurationType="OneShot" DurationMin="79.66333" DurationMax="79.66333">
+					<MediaRefs>
+						<MediaRef Id="692114118"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3493455862" Name="Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07" DurationType="OneShot" DurationMin="1.3636731" DurationMax="1.3636731">
+					<MediaRefs>
+						<MediaRef Id="272848441"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{A8B76B74-CCB7-4E2E-3DCF-C222BA9FE07B}</FileHash>
+</SoundBanksInfo>

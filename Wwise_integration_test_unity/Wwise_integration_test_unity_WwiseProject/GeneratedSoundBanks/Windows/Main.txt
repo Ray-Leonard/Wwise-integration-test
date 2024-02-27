@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2940695617	Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling			\Default Work Unit\Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling	
+	3493455862	Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07			\Default Work Unit\Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	272848441	TOYS Squeaky Chicken, Noise, One Long Squeal, High 07	C:\Users\j_li\Documents\_Workspace\GitHub\Wwise-integration-test\Wwise_integration_test_unity\Wwise_integration_test_unity_WwiseProject\.cache\Windows\SFX\TOYS Squeaky Chicken, Noise, One Long Squeal, High 07_892E9FEB.wem		\Actor-Mixer Hierarchy\Default Work Unit\TOYS Squeaky Chicken, Noise, One Long Squeal, High 07		261920
+	692114118	AMBIENCE Water Soft Spring Small Bubbling	C:\Users\j_li\Documents\_Workspace\GitHub\Wwise-integration-test\Wwise_integration_test_unity\Wwise_integration_test_unity_WwiseProject\.cache\Windows\SFX\AMBIENCE Water Soft Spring Small Bubbling_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMBIENCE Water Soft Spring Small Bubbling		15295456
+

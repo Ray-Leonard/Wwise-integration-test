@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{9BA4CA60-9BC0-489E-BCD8-8D0330BDEB6B}" SchemaVersion="119">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{9BA4CA60-9BC0-489E-BCD8-8D0330BDEB6B}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{9BA4CA60-9BC0-489E-BCD8-8D0330BDEB6B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{C67EAAE6-B1C2-46FA-95D9-5A59E38D99C9}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07" ID="{019B0E4E-3DE4-456A-A27A-4B828D58CAE6}" WorkUnitID="{2FD83DA1-5865-409B-AB5F-1DD9F0A0DAA5}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling" ID="{B834133D-23A0-4E9D-B20E-1B32B2C7C6FC}" WorkUnitID="{2FD83DA1-5865-409B-AB5F-1DD9F0A0DAA5}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

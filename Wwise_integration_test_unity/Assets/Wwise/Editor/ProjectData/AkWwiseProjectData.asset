@@ -66,8 +66,22 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 60caa49bc09b9e48bcd88d0330bdeb6b
     GuidInternal: 
-    m_lastTime: -8584926236134046997
-    List: []
+    m_lastTime: -8584925336190919942
+    List:
+    - name: Main
+      guid: e6aa7ec6c2b1fa4695d95a59e38d99c9
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 60caa49bc09b9e48bcd88d0330bdeb6b
+      - ElementName: Main
+        ObjectType: 7
+        guid: e6aa7ec6c2b1fa4695d95a59e38d99c9
+      Path: SoundBanks\Default Work Unit\Main
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -80,8 +94,42 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: a13dd82f65589b40ab5f1dd9f0a0daa5
     GuidInternal: 
-    m_lastTime: -8584926236134545331
-    List: []
+    m_lastTime: -8584925336607750339
+    List:
+    - name: Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling
+      guid: 3d1334b8a0239d4eb20e1b32b2c7c6fc
+      id: 2940695617
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: a13dd82f65589b40ab5f1dd9f0a0daa5
+      - ElementName: Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling
+        ObjectType: 3
+        guid: 3d1334b8a0239d4eb20e1b32b2c7c6fc
+      Path: Events\Default Work Unit\Play_AMBIENCE_Water_Soft_Spring_Small_Bubbling
+      maxAttenuation: 0
+      maxDuration: 79.66333
+      minDuration: 79.66333
+    - name: Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07
+      guid: 4e0e9b01e43d6a45a27a4b828d58cae6
+      id: 3493455862
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: a13dd82f65589b40ab5f1dd9f0a0daa5
+      - ElementName: Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07
+        ObjectType: 3
+        guid: 4e0e9b01e43d6a45a27a4b828d58cae6
+      Path: Events\Default Work Unit\Play_TOYS_Squeaky_Chicken__Noise__One_Long_Squeal__High_07
+      maxAttenuation: 0
+      maxDuration: 1.3636731
+      minDuration: 1.3636731
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -139,7 +187,7 @@ MonoBehaviour:
     m_lastTime: -8584926236134316092
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedWaapiItemIds: 06000000070000000a0000000b000000f4000000f5000000ec010000ed010000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
